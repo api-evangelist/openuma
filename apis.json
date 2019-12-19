@@ -1,0 +1,49 @@
+{
+    "name": "OpenUMA",
+    "description": "At ForgeRock we provide an identity and access platform to secure every online relationship for the enterprise market, educational sector and even entire countries.",
+    "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist\/api-butterfly.png",
+    "tags": [
+        "authentication",
+        "have api",
+        "oauth"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openuma\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenUMA",
+            "description": null,
+            "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist\/api-butterfly.png",
+            "humanURL": "https:\/\/forgerock.org\/openuma\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openuma-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openuma-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/forgerock.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/forgerock.org\/feed\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/forgerock.org\/openuma\/"
+        }
+    ]
+}
